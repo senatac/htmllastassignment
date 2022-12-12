@@ -6,7 +6,7 @@ Bu repository, [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde HTML i
 Öncelikle projeyi clonelayın. 
 
 ```bash
-git clone https://github.com/senatac/myfirstwebpage.git
+git clone https://github.com/senatac/htmllastassignment.git
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd myfirstwebpage
+cd htmllastassignment
 code .
 ```
 
